@@ -1,4 +1,3 @@
-Markdown
 # I am Rich
 
 **A simple iOS app demonstrating basic UI elements.**
